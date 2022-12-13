@@ -2,7 +2,7 @@
   <div id="nav">
     <div class="container">
     </div>
-    
+
     Benkts Blog
     <router-link to="/">Home</router-link> |
     <router-link to="/about">About</router-link>
