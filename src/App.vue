@@ -2,7 +2,7 @@
   <div id="nav">
     <div class="container">
     </div>
-    <img src="http://placehold.it/40/40" class="round">
+    
     Benkts Blog
     <router-link to="/">Home</router-link> |
     <router-link to="/about">About</router-link>
